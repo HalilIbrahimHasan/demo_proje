@@ -5,5 +5,6 @@ public class DemoClass {
 	
 	public static void main(String[] args) {
 		System.out.println("ilk commit local repositoryden");
+		System.out.println("ilk commit remote repositoryden");
 	}
 }
